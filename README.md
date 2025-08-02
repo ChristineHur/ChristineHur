@@ -9,13 +9,12 @@ Programming Languages: C, Python, Java (basic) <br/>
 Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib <br/>
 Development Tools: Jupyter Notebooks <br/>
 
-## 📫 How to reach me: 
-Email: christihr4@gmail.com <br/>
-Linkedin: https://www.linkedin.com/in/christine-hur/
-
 ## 🎯 Current Project: https://github.com/ChristineHur/lab8-solve-ml-problem
 Using a dataset about AirBnB listings, I tried creating a gradient boosted decision tree model to predict review scores ratings so that higher rated listings could be predicted. In this project, I used python and scikit-learn to first preprocess the data, then create the model and evaluate the model using R^2 and RMSE scores.
 
+## 📫 How to reach me: 
+Email: christihr4@gmail.com <br/>
+Linkedin: https://www.linkedin.com/in/christine-hur/
 
 ## ⚡ Fun fact:
 Boba is an addiction that keeps me going and gives me the energy to code, show up, and learn!
